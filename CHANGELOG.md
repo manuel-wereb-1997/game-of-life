@@ -3,3 +3,4 @@
 ### Added
 - Pylint pre-commit hook to enforce linting before commits
 - Black pre-commit hook to enforce code formatting before commits
+- Github Workflow for continuous integration
