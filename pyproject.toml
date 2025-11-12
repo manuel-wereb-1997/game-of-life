@@ -1,10 +1,11 @@
 [project]
 name = "game-of-life"
 version = "0.1.0"
-description = ""
+description = "This project is an implementation of Conway’s Game of Life, a zero-player cellular automaton where simple rules lead to complex emergent behavior."
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Manuel Wereb",email = "manuelwereb@googlemail.com"}
 ]
+license = "MIT"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
