@@ -20,4 +20,5 @@ build-backend = "poetry.core.masonry.api"
 pylint = "^4.0.2"
 pre-commit = "^4.4.0"
 black = "^25.11.0"
+flake8 = "^7.3.0"
 
